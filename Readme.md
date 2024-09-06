@@ -1,4 +1,4 @@
-https://github.com/rendystdy/todos/blob/main/flow_app.gif
+![](https://github.com/rendystdy/todos/blob/main/flow_app.gif)
 
 
 # React Native Skeleton
