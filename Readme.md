@@ -1,4 +1,4 @@
-https://github.com/rendystdy/notesapp/assets/38721228/e490faae-4626-4bac-8ec2-f3d4e428a315
+https://github.com/rendystdy/todos/blob/main/flow_app.gif
 
 
 # React Native Skeleton
@@ -49,7 +49,6 @@ dependencies: {
     "react-native": "0.70.1",
     "react-native-bouncy-checkbox": "^4.1.2",
     "react-native-gesture-handler": "^2.13.1",
-    "react-native-pell-rich-editor": "^1.9.0",
     "react-native-reanimated": "^2.9.1",
     "react-native-safe-area-context": "^4.3.3",
     "react-native-screens": "^3.17.0",
