@@ -17,10 +17,10 @@ Follow instructions for your given `development OS` and `target OS`.
 
 ## Quick start
 
-To create a new project using the boilerplate simply run :
+To running project simply run :
 
 ```
-git clone
+git clone https://github.com/rendystdy/todos.git
 ```
 
 Assuming you have all the requirements installed, you can run the project by running:
@@ -28,6 +28,43 @@ Assuming you have all the requirements installed, you can run the project by run
 - `yarn install` to install all depedencies
 - `cd ios && pod install` to install all depedencies
 - `yarn <platform>` to run the *platform* application (remember to start a simulator or connect a device)
+
+## Dependencies
+
+```
+dependencies: {
+    "@react-native-community/async-storage": "^1.12.1",
+    "@react-navigation/native": "^6.0.13",
+    "@react-navigation/native-stack": "^6.9.0",
+    "@types/react-native-vector-icons": "^6.4.12",
+    "axios": "^0.27.2",
+    "babel-plugin-module-resolver": "^4.1.0",
+    "dayjs": "^1.11.10",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.6.1",
+    "formik": "^2.2.9",
+    "jsc-android": "^250230.2.1",
+    "react": "18.1.0",
+    "react-native": "0.70.1",
+    "react-native-bouncy-checkbox": "^4.1.2",
+    "react-native-gesture-handler": "^2.13.1",
+    "react-native-pell-rich-editor": "^1.9.0",
+    "react-native-reanimated": "^2.9.1",
+    "react-native-safe-area-context": "^4.3.3",
+    "react-native-screens": "^3.17.0",
+    "react-native-svg": "^13.2.0",
+    "react-native-svg-transformer": "^1.0.0",
+    "react-native-toast-message": "^2.1.5",
+    "react-native-vector-icons": "^9.2.0",
+    "react-redux": "^8.0.2",
+    "reactotron-redux": "^3.1.3",
+    "redux": "^4.2.0",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.4.1",
+    "yup": "^0.32.11"
+  }
+```
 
 ## Reactotron
 
